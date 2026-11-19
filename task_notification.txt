@@ -1,0 +1,9 @@
+Subject: Task assigned: {task_name}
+
+Hi {name},
+
+You have a new task: {task_name}
+Due date: {due_date}
+
+Thanks,
+{company} Operations

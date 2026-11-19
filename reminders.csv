@@ -1,0 +1,8 @@
+reminder_id,contact_email,template,send_at,repeat,event_name,event_date,event_time,link,amount,invoice_no,due_date,task_name
+R001,priya.sharma@example.com,meeting_reminder,2026-11-20 09:00,none,Weekly HR Sync,2026-11-20,10:00 AM,https://meet.example.com/hr-sync,,,,
+R002,amit.patel@example.com,payment_reminder,2026-11-20 10:00,weekly,,,,,INR 4500,INV-1021,2026-11-25,
+R003,sneha.iyer@example.com,webinar_reminder,2026-11-20 16:00,none,Sales Automation Webinar,2026-11-21,03:00 PM,https://webinar.example.com/sales,,,,
+R004,rahul.verma@example,task_notification,2026-11-20 11:00,none,,,,,,,2026-11-22,Update inventory sheet
+R005,ghost.user@example.com,followup,2026-11-20 12:00,none,Product Demo,2026-11-18,,,,,,
+R006,karan.singh@example.com,meeting_reminder,2026-11-20 08:30,daily,Daily Standup,,09:00 AM,https://meet.example.com/standup,,,,
+R007,neha.gupta@example.com,task_notification,2026-11-25 09:00,none,,,,,,,2026-11-28,Book conference room

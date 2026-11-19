@@ -1,0 +1,9 @@
+Subject: Starting soon: {event_name}
+
+Hi {name},
+
+Your webinar "{event_name}" takes place on {event_date} at {event_time}.
+Registration link: {link}
+
+See you there!
+{company} Events Team

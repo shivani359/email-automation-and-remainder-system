@@ -1,0 +1,9 @@
+Subject: Reminder: {event_name} at {event_time}
+
+Hi {name},
+
+This is a friendly reminder about "{event_name}" scheduled for {event_time}.
+Join here: {link}
+
+Regards,
+{company} Team

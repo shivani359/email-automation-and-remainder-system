@@ -1,0 +1,9 @@
+Subject: Following up on {event_name}
+
+Hi {name},
+
+Thank you for your time during {event_name} on {event_date}.
+Let us know if you have any questions or would like to continue the conversation.
+
+Best,
+{company} Sales Team

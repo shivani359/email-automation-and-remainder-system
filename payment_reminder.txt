@@ -1,0 +1,9 @@
+Subject: Payment reminder - Invoice {invoice_no}
+
+Dear {name},
+
+Our records show that invoice {invoice_no} for {amount} is due on {due_date}.
+Please ignore this email if you have already paid.
+
+Thank you,
+{company} Finance Team
